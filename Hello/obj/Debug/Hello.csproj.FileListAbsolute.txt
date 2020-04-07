@@ -1,0 +1,7 @@
+C:\Csharp\csharpkurs\Hello\bin\Debug\Hello.exe.config
+C:\Csharp\csharpkurs\Hello\bin\Debug\Hello.exe
+C:\Csharp\csharpkurs\Hello\bin\Debug\Hello.pdb
+C:\Csharp\csharpkurs\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Csharp\csharpkurs\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Csharp\csharpkurs\Hello\obj\Debug\Hello.exe
+C:\Csharp\csharpkurs\Hello\obj\Debug\Hello.pdb
